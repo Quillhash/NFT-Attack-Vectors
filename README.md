@@ -4,6 +4,7 @@ The ERC-721 introduces a standard for NFT, in other words, this type of Token is
 
 This Repository contains a list of NFT Attack Vectors. The recent rise in popularity of these NFTs is due to a lack of information available both offline and online, making them a popular target for scammers and hackers. Below are some NFT attack vectors which hackers/scammers generally use to exploit. This repository will be actively maintained and updated by QuillAudits.
 
+#### If you find any attack vectors missing, you call create a pull request and be a contributor of the project. 
 
 ---
 Serial No. | Attack Vectors
