@@ -6,6 +6,8 @@ This Repository contains a list of NFT Attack Vectors. The recent rise in popula
 
 #### If you find any attack vectors missing, you can create a pull request and be a contributor of the project. 
 
+![](/data/1.png)
+
 ---
 Serial No. | Attack Vectors
 --- | ---
