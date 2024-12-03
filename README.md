@@ -27,7 +27,7 @@ Serial No. | Attack Vectors
 **14** | [Influencer/ Shilling](data/14.md)
 **15** | [Unlimited Permission on Token Approval](data/15.md)
 **16** | [Unsafe ERC721 Operations](data/16.md)
-**17** | [Reward Not Updated](data/17.md)
+**17** | [Omni_Reentrancy_Hack](data/17.md)
 **18** | [Code Exploits](data/18.md)
 **19** | [Private Key Compromise](data/19.md)
 **20** | [Airdrop Exploits](data/20.md)
@@ -35,6 +35,7 @@ Serial No. | Attack Vectors
 **22** | [NFT Social Media Hack](data/22.md)
 **23** | [Phishing Scams](data/23.md)
 **24** | [Frontend Attacks](data/24.md)
+**25** | [V1 CryptoPunks Exploit](data/25.md)
 
 -----
 
